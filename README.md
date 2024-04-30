@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://sdetqaportal.blogspot.com/](https://sdetqaportal.blogspot.com/)
 
-- 💬 Ask me about **Selenium, Appium, SQL, Java, Python**
+- 💬 Ask me about **Selenium, Appium, Postman, SQL, Python**
 
 - 📫 How to reach me **sainadh.puritipati@gmail.com**
 
