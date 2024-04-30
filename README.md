@@ -1,4 +1,3 @@
-[![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgS-2476StmB81lkeYcGK5feDRgi5PhaE4iD4bMRkpzizpdSV23lPJ4vpamNZWEWraMcgnyXbwnrCvqwG6H9mvuaciTdX4P9ORAvuTQWPRzwcYfLBGD91rqF9nnFhug6rz672klyU8htvbyuJQbj0j5M3al60zef8ksdbWn3dDvTsh8DwlNofQ9rtKworQ/s1470/robot_sdetqa_portal.jpg)
 <h1 align="center">Hi 👋, I'm Sainadh Reddy Puritipati</h1>
 <h3 align="center">A passionate Test Automation Engineer from India</h3>
 
