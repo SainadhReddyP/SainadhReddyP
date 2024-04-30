@@ -1,8 +1,6 @@
 [![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgS-2476StmB81lkeYcGK5feDRgi5PhaE4iD4bMRkpzizpdSV23lPJ4vpamNZWEWraMcgnyXbwnrCvqwG6H9mvuaciTdX4P9ORAvuTQWPRzwcYfLBGD91rqF9nnFhug6rz672klyU8htvbyuJQbj0j5M3al60zef8ksdbWn3dDvTsh8DwlNofQ9rtKworQ/s1470/robot_sdetqa_portal.jpg)
 <h1 align="center">Hi 👋, I'm Sainadh Reddy Puritipati</h1>
 <h3 align="center">A passionate Test Automation Engineer from India</h3>
-<img align="right" alt="Testing" width="400" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGZG7Q75piYKijHd6kXzlxjZKW-IgUOpgX_Ucnv5ffXttb6ZdB7QmRCfedMtoshxWRf-U4F7kNn1sPQXWbTyRwe2kHoHbfuVqB28hdsUm3rEefZxat_yJVgcVSO0I89Q8fJJx2Yc3xRr73O954XlU_6jxI360VJ7iL9HqLFa379REgIupfHGgG_NxsHLA/s320/sdet_qa_portal.gif">
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sainadhreddyp&label=Profile%20views&color=0e75b6&style=flat" alt="sainadhreddyp" /> </p>
 
