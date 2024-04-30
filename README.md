@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sainadhreddyp" alt="sainadhreddyp" /></a> </p>
 
-- 🌱 I’m currently learning **Playwright**
+- 🌱 I’m currently learning **Squish**
 
 - 📝 I regularly write articles on [https://sdetqaportal.blogspot.com/](https://sdetqaportal.blogspot.com/)
 
-- 💬 Ask me about **Selenium, Appium**
+- 💬 Ask me about **Selenium, Appium, SQL, Java, Python**
 
 - 📫 How to reach me **sainadh.puritipati@gmail.com**
 
