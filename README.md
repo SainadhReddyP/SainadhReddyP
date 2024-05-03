@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sainadhreddyp" alt="sainadhreddyp" /></a> </p>
 
-- 🌱 I’m currently learning **Squish**
+- 🌱 I’m currently learning **Squish, Playwright & Cypress**
 
 - 📝 I regularly write articles on [https://sdetqaportal.blogspot.com/](https://sdetqaportal.blogspot.com/)
 
